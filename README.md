@@ -39,7 +39,7 @@ human-centred history where individual trajectories intersect with political and
                priest's life: the 1930s, WWII and post WWII.
 
 
-🚀[Visit the Website](https://woutdln.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
+🚀[Visit the Website](https://github.com/MaudGM/HIStory123/deployments/activity_log?environment=github-pages) if you want to see what the published version of this repository looks like.
 
 
 ## About the Developer
