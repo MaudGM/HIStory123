@@ -39,8 +39,7 @@ human-centred history where individual trajectories intersect with political and
                priest's life: the 1930s, WWII and post WWII.
 
 
-🚀[Visit the Website](https://github.com/MaudGM/HIStory123/deployments/activity_log?environment=github-pages) if you want to see what the published version of this repository looks like.
-
+🚀[Visit the Website](https://maudgm.github.io/HIStory123/)
 
 ## About the Developer
 This repository was created by Maud Guichard-Marneur in the Spring 2022 as part of a digitizing project at the University of Borås, Sweden. This project is a pilot project as part of a Master Program in Library and information science.
